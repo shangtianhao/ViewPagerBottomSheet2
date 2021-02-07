@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
         setSupportActionBar(toolbar);
 
+
+        //创建了一个分支testBranch_03
         setupMainViewPager();
         setupBottomSheet();
     }
